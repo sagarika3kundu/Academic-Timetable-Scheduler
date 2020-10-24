@@ -1,8 +1,7 @@
 # Academic-Time-Table
 <h3>A Java application to generate Time Table</h3>
 This Project has been built under the guidance of Prof. Ee-Kian Wong for course CS-504D
-<br>
-<b>Team Members</b>
+<h2>Team Members</h2>
 <ul>
   <li>Sahil Kumar - Team Leader</li>
   <li>Sagarika Saroj Kundu - Logic Designer</li>
